@@ -1,5 +1,5 @@
 spring:
-  aplication:
+  application:
     name: user-service
   cloud:
     config:
